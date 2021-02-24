@@ -1,6 +1,8 @@
 # ZodiacSentiment
 This project is part of the Data Science and Visualization Bootcamp at University of California San Diego Extension.
 
+![Sample_Tableau_Viz](/Tableau_viz_sampple.png)
+
 ## Project Intro/Objective
 In this project, we trained a deep neural network on labeled twitter data to analyze the sentiments of tweets, 
 and then test the neural network to determine what zodiac signs are being talked about the most positively.
