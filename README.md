@@ -34,6 +34,8 @@ A full explanation of our process can be found [here](https://docs.google.com/pr
 - statistical modeling
 - writeup/reporting
 
+![zodiac_signs](/zodiac_signs.jpg)
+
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
