@@ -40,5 +40,5 @@ A full explanation of our process can be found [here](https://docs.google.com/pr
 3. Raw Data is being kept [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/data/json_files) within this repo.   
 4. Data processing/transformation scripts are being kept [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/data/cleaning_and_%20calculation)
 5. Cleaned data is kept [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/data/cleaned_data).
-7. We visualized this data on Tableau [here](https://public.tableau.com/profile/stephen.hong3109#!/vizhome/ZodiacTweetSentiments/Story1) and the script for our website can be found [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/LPM%20site%20additions).
+7. We visualized this data on Tableau [here](https://public.tableau.com/profile/stephen.hong3109#!/vizhome/ZodiacTweetSentiments/Story1) and the script for our website (still under development) can be found [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/LPM%20site%20additions).
 
