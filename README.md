@@ -4,8 +4,7 @@ This project is part of the Data Science and Visualization Bootcamp at Universit
 ![Sample_Tableau_Viz](/Tableau_viz_sample.png)
 
 ## Project Intro/Objective
-In this project, we trained a deep neural network on labeled twitter data to analyze the sentiments of tweets, 
-and then test the neural network to determine what zodiac signs are being talked about the most positively.
+In this project, we (Stephen Hong, Trevor Kienstuber, Laura Paakh May, and Thompson Tang) trained a deep neural network on labeled twitter data to analyze the sentiments of tweets, and then tested the neural network to determine what zodiac signs are being talked about the most positively.
 
 ### Methods Used
 * Inferential Statistics
