@@ -34,8 +34,6 @@ A full explanation of our process can be found [here](https://docs.google.com/pr
 - statistical modeling
 - writeup/reporting
 
-![zodiac_signs](/zodiac_signs.jpg)
-
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
@@ -44,4 +42,6 @@ A full explanation of our process can be found [here](https://docs.google.com/pr
 4. Data processing/transformation scripts are being kept [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/data/cleaning_and_%20calculation)
 5. Cleaned data is kept [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/data/cleaned_data).
 7. We visualized this data on Tableau [here](https://public.tableau.com/profile/stephen.hong3109#!/vizhome/ZodiacTweetSentiments/Story1) and the script for our website (still under development) can be found [here](https://github.com/Lpaakh/ZodiacSentiment/tree/main/LPM%20site%20additions).
+
+![zodiac_signs](/zodiac_signs.jpg)
 
