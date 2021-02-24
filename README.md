@@ -1,7 +1,7 @@
 # ZodiacSentiment
 This project is part of the Data Science and Visualization Bootcamp at University of California San Diego Extension.
 
-![Sample_Tableau_Viz](/Tableau_viz_sampple.png)
+![Sample_Tableau_Viz](/Tableau_viz_sample.png)
 
 ## Project Intro/Objective
 In this project, we trained a deep neural network on labeled twitter data to analyze the sentiments of tweets, 
